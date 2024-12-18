@@ -11,6 +11,9 @@ EejitToken (EJT) is an ERC-20 compliant token deployed on the Polygon network. T
 - **Contract Address:** `0x9482106fB7dBE4aECF16c7B0b78F589Da69E936f`
 - **Network:** Polygon (MATIC)
 - **Token Standard:** ERC-20
+- **Logo:** `eejitcoin.svg` (located in the contracts directory)
+
+![EejitToken Logo](./eejitcoin.svg)
 
 ## Features
 - Fixed total supply of 1,000,000 tokens
